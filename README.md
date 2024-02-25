@@ -1,7 +1,9 @@
 # ManageDo
 A synchonization application between Managebac and Todoist
 ## Installation
-Download all of the files and dependencies in one folder, run ManageDo.py
+1. Download all of the files in one folder.
+2. Install the required dependencies (see requirements.txt)
+3. Run ManageDo.py
 ## Usage
 On first run, press on sign-in to be guided through the log-in proccess into Todoist and Managebac. After that, you can select automatic background synchronization and forget about the application, as it will automatically keep your account in sync.
 ## UI
